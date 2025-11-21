@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "bbd0559ef3a00b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3447697ee1fdb404",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44fc40e6f381d35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Функции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Функции"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03519d0b9c9615de",
+    "type": "split",
+    "children": [
+      {
+        "id": "760b1ca8810ac283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb1365cc5b5bbb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6da87ddd345a32f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "1dccb6279bd866d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd21f135a1d25995",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70c87c1347a73f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aebe7f19e7a8e95a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Функции.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Функции"
+            }
+          },
+          {
+            "id": "1c0deba4f4f5599b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Функции.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Функции"
+            }
+          },
+          {
+            "id": "7dd652b665e61bfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a88f820cdf3e031b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "b85ec750ab09508e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Функции.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Функции"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "graph:Граф": false
+    }
+  },
+  "active": "eeb1365cc5b5bbb7",
+  "lastOpenFiles": [
+    "Интересные факты/Ничего лишнего.md",
+    "Интересные факты/Типы операций по количеству операндов.md",
+    "Functions/cin.fail.md",
+    "Functions/string.find.md",
+    "Functions/Методы строк.md",
+    "Functions/string.substr.md",
+    "Функции.md",
+    "Типы данных-контейнеры/enum.md",
+    "Типы, Классы, Контейнеры.md",
+    "Functions/string.rfind.md",
+    "Functions/Функции приведения.md",
+    "Functions/Методы потоков.md",
+    "Functions/find.md",
+    "Functions/cin.clear.md",
+    "Тренажёрные задания/Задание номер 1.md",
+    "Список заданий.md",
+    "Functions/static_cast.md",
+    "Добро пожаловать.md",
+    "Без названия.base",
+    "[функции].md",
+    "Интересные факты",
+    "Тренажёрные задания",
+    "Типы данных-контейнеры",
+    "Functions"
+  ]
+}
