@@ -1,0 +1,1 @@
+[`std::abort`](https://en.cppreference.com/w/cpp/utility/program/abort), которая объявлена в файле `<cstdlib>`. Эта функция аварийно завершает работу программы.
